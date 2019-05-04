@@ -1,0 +1,6 @@
+name: Idontfucking SkidCommand
+author: Disclearing
+version: 1.0
+main: xyz.disclearing.pp.main
+commands:
+    skid:
