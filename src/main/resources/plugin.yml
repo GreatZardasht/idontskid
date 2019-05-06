@@ -1,5 +1,6 @@
-name: Idontfucking SkidCommand
+name: disclearing_doesnt_skid
 author: Disclearing
+description: keep it clean
 version: 1.0
 main: xyz.disclearing.pp.main
 commands:
