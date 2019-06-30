@@ -8,7 +8,7 @@ import org.bukkit.command.CommandSender;
 public class PcrunCommand implements CommandExecutor {
 
     public boolean onCommand(CommandSender sender, Command command, String s, String[] strings) {
-        sender.sendMessage(ChatColor.RED + "I am not a SkidCommand");
+        sender.sendMessage(ChatColor.RED + "I am not a pcrun clown");
         return false;
     }
 }
