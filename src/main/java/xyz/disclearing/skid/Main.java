@@ -10,6 +10,7 @@ public class Main extends JavaPlugin{
     public void onEnable(){
         // Loads Skid Command
         this.getCommand("skid").setExecutor(new SkidCommand());
+        this.getCommand("pcrun").setExecutor(new PcrunCommand());
         //Loads Event
         getServer().getPluginManager().registerEvents(new SkidEvent(),this);
         // Loads Config
