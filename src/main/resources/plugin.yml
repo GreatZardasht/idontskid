@@ -5,4 +5,8 @@ author: disclearing
 website: disclearing.xyz
 commands:
   skid:
+<<<<<<< HEAD
   pcrun:
+=======
+  pcrun:
+>>>>>>> master
